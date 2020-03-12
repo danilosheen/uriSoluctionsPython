@@ -1,5 +1,6 @@
 import math
 n = int(input())
+
 for i in range(n):
     c, d = map(int, input().split())
     if c != 0 and d != 0:
